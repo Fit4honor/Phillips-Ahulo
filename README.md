@@ -1,3 +1,3 @@
-Title: Phillips-Ahulo
-Description: A showcase of my Data Analysis Projects
-Theme: jekyll-theme-minimal
+Phillips Ahulo
+A showcase of my Data Analysis Projects
+jekyll-theme-minimal
